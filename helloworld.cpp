@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace cout;
 int main()
 {
   cout<<"hello world"<<endl;
